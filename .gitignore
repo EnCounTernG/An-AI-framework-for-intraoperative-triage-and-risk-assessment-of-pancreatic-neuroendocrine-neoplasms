@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.svs
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.csv
+data/
+outputs/
